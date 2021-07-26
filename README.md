@@ -1,1 +1,3 @@
-# homework7_6
+# BookShopApp
+Readmy.md - file
+
