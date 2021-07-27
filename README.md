@@ -1,3 +1,0 @@
-# BookShopApp
-Readmy.md - file
-
